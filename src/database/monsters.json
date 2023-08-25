@@ -1,0 +1,429 @@
+[
+    {
+        "nome": "AARAKOCRA",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 13,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "ABOCANHADOR MATRAQUEANTE",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 9,
+        "pontos_de_vida": 67,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "ABOLETE",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 135,
+        "nivel_desafio": "10"
+    },
+    {
+        "nome": "DEVA",
+        "tipo": "CELESTIAL",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 136,
+        "nivel_desafio": "10"
+    },
+    {
+        "nome": "PLANETARIO",
+        "tipo": "CELESTIAL",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 200,
+        "nivel_desafio": "16"
+    },
+    {
+        "nome": "SOLAR",
+        "tipo": "CELESTIAL",
+        "classe_de_armadura": 21,
+        "pontos_de_vida": 243,
+        "nivel_desafio": "21"
+    },
+    {
+        "nome": "ANKHEG",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 39,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "ANOMALIA DA ÁGUA",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 58,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "APARIÇÃO",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 67,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "ARBUSTO ERRANTE",
+        "tipo": "PLANTA",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 136,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "AZER",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 39,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "BANSHEE",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 58,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "BASILISCO",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 52,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "BEHIR",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 168,
+        "nivel_desafio": "11"
+    },
+    {
+        "nome": "BRUXA DA NOITE",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 112,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "BRUXA DA MAR",
+        "tipo": "FADA",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 52,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "BRUXA VERDE",
+        "tipo": "FADA",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 82,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "BUGBEAR",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 27,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "BUGBEAR COMANDANTE",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 65,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "BULETTE",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 94,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "BULLYWUG",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 11,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "CAÇADOR INVISÍVEL",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 104,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "CAMBION",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 82,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "CÃO INFERNAL",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 45,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "CARNIÇAL",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "LÍVIDO",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 36,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "CAVALEIRO DA MORTE",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 20,
+        "pontos_de_vida": 180,
+        "nivel_desafio": "17"
+    },
+    {
+        "nome": "CAVEIRA FLAMEJANTE",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 40,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "CENTAURO",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 45,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "CHUUL",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 93,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "CICLOPE",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 138,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "COCATRIZ",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 27,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "COUATL",
+        "tipo": "CELESTIAL",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 97,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "DEMILICH",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 20,
+        "pontos_de_vida": 80,
+        "nivel_desafio": "18"
+    },
+    {
+        "nome": "BALOR",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 262,
+        "nivel_desafio": "19"
+    },
+    {
+        "nome": "BARLGURA",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 68,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "CHASME",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 84,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "DRETCH",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 18,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "GLABREZU",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 157,
+        "nivel_desafio": "9"
+    },
+    {
+        "nome": "GORISTRO",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 310,
+        "nivel_desafio": "17"
+    },
+    {
+        "nome": "HEZROU",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 136,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "MANES",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 9,
+        "pontos_de_vida": 9,
+        "nivel_desafio": "1/8"
+    },
+    {
+        "nome": "MARILITH",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 189,
+        "nivel_desafio": "16"
+    },
+    {
+        "nome": "NALFESHNEE",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 185,
+        "nivel_desafio": "13"
+    },
+    {
+        "nome": "QUASIT",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 7,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "DEMÔNIO DAS SOMBRAS",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 66,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "VROCK",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 104,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "YOCHLOL",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 136,
+        "nivel_desafio": "10"
+    },
+    {
+        "nome": "DEVORADOR DE INTELECTO",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 21,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "DEVORADOR DE MENTES",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 71,
+        "nivel_desafio": "7"
+    },
+    {
+        "nome": "DIABO FARPADO",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 110,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "DIABO BARBADO",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 52,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "DIABO DOS OSSOS",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 142,
+        "nivel_desafio": "9"
+    },
+    {
+        "nome": "DIABO DAS CORRENTES",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 85,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "ERÍNIA",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 153,
+        "nivel_desafio": "12"
+    },
+    {
+        "nome": "DIABO DE CHIFRES",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 178,
+        "nivel_desafio": "11"
+    },
+    {
+        "nome": "DIABO DO GELO",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 180,
+        "nivel_desafio": "14"
+    },
+    {
+        "nome": "DIABRETE",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 10,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "LÊMURE",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 7,
+        "pontos_de_vida": 13,
+        "nivel_desafio": "0"
+    },
+    {
+        "nome": "SENHOR DAS PROFUNDEZAS",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 300,
+        "nivel_desafio": "20"
+    },
+    {
+        "nome": "DIABO DOS ESPINHOS",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "2"
+    }
+]
