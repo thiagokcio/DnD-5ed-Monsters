@@ -1,32 +1,33 @@
 const fs = require("fs/promises");
 
-const getMonstersByName = async (req, res) => {
+const getMonstersByType = async (req, res) => {
     const { search } = req.query;
 
     if (!search) {
         return res.status(400).json({
-            mensagem: "Informe um nome para busca.",
+            mensagem: "Informe um tipo para busca.",
         });
     }
+
     try {
         const monsters = JSON.parse(
             await fs.readFile("./src/database/monsters.json")
         );
 
-        const monstersByName = monsters.filter((monster) =>
-            monster.nome.includes(search.toUpperCase())
+        const monstersByType = monsters.filter(
+            (monster) => monster.tipo === search.toUpperCase()
         );
 
-        if (monstersByName.length === 0) {
+        if (monstersByType.length === 0) {
             return res.status(404).json({
                 mensagem: "Nenhum monstro encontrado.",
             });
         }
 
-        return res.status(200).json(monstersByName);
+        return res.status(200).json(monstersByType);
     } catch (error) {
         return res.status(500).json({ error });
     }
 };
 
-module.exports = getMonstersByName;
+module.exports = getMonstersByType;
