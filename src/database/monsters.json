@@ -425,5 +425,1769 @@
         "classe_de_armadura": 13,
         "pontos_de_vida": 22,
         "nivel_desafio": "2"
+    },
+    {
+        "nome": "ALOSSAURO",
+        "tipo": "BESTA",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 51,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "ANQUILOSSAURO",
+        "tipo": "BESTA",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 68,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "PLESIOSSAURO",
+        "tipo": "BESTA",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 68,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "PTERANODONTE",
+        "tipo": "BESTA",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 13,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "TIRANOSSAURO",
+        "tipo": "BESTA",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 136,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "TRICERÁTOPS",
+        "tipo": "BESTA",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 95,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "DRACOLICH",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 225,
+        "nivel_desafio": "17"
+    },
+    {
+        "nome": "DRAGÃO DAS SOMBRAS JOVEM",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 178,
+        "nivel_desafio": "13"
+    },
+    {
+        "nome": "DRAGÃO AZUL ANCIÃO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 22,
+        "pontos_de_vida": 481,
+        "nivel_desafio": "23"
+    },
+    {
+        "nome": "DRAGÃO AZUL ADULTO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 225,
+        "nivel_desafio": "16"
+    },
+    {
+        "nome": "DRAGÃO AZUL JOVEM",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 152,
+        "nivel_desafio": "9"
+    },
+    {
+        "nome": "DRAGÃO AZUL FILHOTE",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 52,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "DRAGÃO BRANCO ANCIÃO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 20,
+        "pontos_de_vida": 333,
+        "nivel_desafio": "20"
+    },
+    {
+        "nome": "DRAGÃO BRANCO ADULTO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 29,
+        "pontos_de_vida": 200,
+        "nivel_desafio": "13"
+    },
+    {
+        "nome": "DRAGÃO BRANCO JOVEM",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 133,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "DRAGÃO BRANCO FILHOTE",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 32,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "DRAGÃO NEGRO ANCIÃO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 22,
+        "pontos_de_vida": 367,
+        "nivel_desafio": "21"
+    },
+    {
+        "nome": "DRAGÃO NEGRO ADULTO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 195,
+        "nivel_desafio": "14"
+    },
+    {
+        "nome": "DRAGÃO NEGRO JOVEM",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 127,
+        "nivel_desafio": "7"
+    },
+    {
+        "nome": "DRAGÃO NEGRO FILHOTE",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 33,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "DRAGÃO VERDE ANCIÃO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 21,
+        "pontos_de_vida": 385,
+        "nivel_desafio": "22"
+    },
+    {
+        "nome": "DRAGÃO VERDE ADULTO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 207,
+        "nivel_desafio": "15"
+    },
+    {
+        "nome": "DRAGÃO VERDE JOVEM",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 136,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "DRAGÃO VERDE FILHOTE",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 38,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "DRAGÃO VERMELHO ANCIÃO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 22,
+        "pontos_de_vida": 546,
+        "nivel_desafio": "24"
+    },
+    {
+        "nome": "DRAGÃO VERMELHO ADULTO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 256,
+        "nivel_desafio": "17"
+    },
+    {
+        "nome": "DRAGÃO VERMELHO JOVEM",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 178,
+        "nivel_desafio": "10"
+    },
+    {
+        "nome": "DRAGÃO VERMELHO FILHOTE",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 75,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "DRAGÃO DE BRONZE ANCIÃO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 22,
+        "pontos_de_vida": 444,
+        "nivel_desafio": "22"
+    },
+    {
+        "nome": "DRAGÃO DE BRONZE ADULTO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 212,
+        "nivel_desafio": "15"
+    },
+    {
+        "nome": "DRAGÃO DE BRONZE JOVEM",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 142,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "DRAGÃO DE BRONZE FILHOTE",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 32,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "DRAGÃO DE COBRE ANCIÃO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 21,
+        "pontos_de_vida": 350,
+        "nivel_desafio": "21"
+    },
+    {
+        "nome": "DRAGÃO DE COBRE ADULTO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 184,
+        "nivel_desafio": "14"
+    },
+    {
+        "nome": "DRAGÃO DE COBRE JOVEM",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 119,
+        "nivel_desafio": "7"
+    },
+    {
+        "nome": "DRAGÃO DE COBRE FILHOTE",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "DRAGÃO DE LATÃO ANCIÃO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 20,
+        "pontos_de_vida": 297,
+        "nivel_desafio": "20"
+    },
+    {
+        "nome": "DRAGÃO DE LATÃO ADULTO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 172,
+        "nivel_desafio": "13"
+    },
+    {
+        "nome": "DRAGÃO DE LATÃO JOVEM",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 110,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "DRAGÃO DE LATÃO FILHOTE",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 16,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "DRAGÃO DE OURO ANCIÃO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 22,
+        "pontos_de_vida": 546,
+        "nivel_desafio": "24"
+    },
+    {
+        "nome": "DRAGÃO DE OURO ADULTO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 256,
+        "nivel_desafio": "17"
+    },
+    {
+        "nome": "DRAGÃO DE OURO JOVEM",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 178,
+        "nivel_desafio": "10"
+    },
+    {
+        "nome": "DRAGÃO DE OURO FILHOTE",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 60,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "DRAGÃO DE PRATA ANCIÃO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 22,
+        "pontos_de_vida": 487,
+        "nivel_desafio": "23"
+    },
+    {
+        "nome": "DRAGÃO DE PRATA ADULTO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 243,
+        "nivel_desafio": "16"
+    },
+    {
+        "nome": "DRAGÃO DE PRATA JOVEM",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 168,
+        "nivel_desafio": "9"
+    },
+    {
+        "nome": "DRAGÃO DE PRATA FILHOTE",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 45,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "DRAGÃO-FADA (VERMELHO, LARANJA OU AMARELO)",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 14,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "DRAGÃO-FADA (VERDE, AZUL, ANIL OU VIOLETA)",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 14,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "DRÍADE",
+        "tipo": "FADA",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "DRIDER",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 123,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "DUERGAR",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 26,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "DUPLO",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 52,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "ELEMENTAL DA ÁGUA",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 114,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "ELEMENTAL DA TERRA",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 126,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "ELEMENTAL DO AR",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 90,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "ELEMENTAL DO FOGO",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 102,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "DROW",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 13,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "DROW ARCANO",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 45,
+        "nivel_desafio": "7"
+    },
+    {
+        "nome": "DROW GUERREIRO DE ELITE",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 71,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "DROW SACERDOTISA DE LOLTH",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 71,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "EMPÍRICO",
+        "tipo": "CELESTIAL",
+        "classe_de_armadura": 22,
+        "pontos_de_vida": 313,
+        "nivel_desafio": "23"
+    },
+    {
+        "nome": "ENTE",
+        "tipo": "PLANTA",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 138,
+        "nivel_desafio": "9"
+    },
+    {
+        "nome": "ANDROESFINGE",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 199,
+        "nivel_desafio": "17"
+    },
+    {
+        "nome": "GINOESFINGE",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 136,
+        "nivel_desafio": "11"
+    },
+    {
+        "nome": "ESPANTALHO",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 36,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "ESPECTRO",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "ESQUELETO",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 13,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "ESQUELETO DE MINOTAURO",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 67,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "ESQUELETO DE CAVALO DE GUERRA",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "ESTRANGULADOR",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 20,
+        "pontos_de_vida": 93,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "ETTERCAP",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 44,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "ETTIN",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 85,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "FANTASMA",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 45,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "FLUMPH",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 7,
+        "nivel_desafio": "1/8"
+    },
+    {
+        "nome": "FOGO-FÁTUO",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "FOMORI",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 149,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "ESPORO DE GÁS",
+        "tipo": "PLANTA",
+        "classe_de_armadura": 5,
+        "pontos_de_vida": 1,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "FUNGO VIOLETA",
+        "tipo": "PLANTA",
+        "classe_de_armadura": 5,
+        "pontos_de_vida": 18,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "GUINCHADOR",
+        "tipo": "PLANTA",
+        "classe_de_armadura": 5,
+        "pontos_de_vida": 13,
+        "nivel_desafio": "0"
+    },
+    {
+        "nome": "GALEB DUHR",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 85,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "GÁRGULA",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 52,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "GARRA RASTEJANTE",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 2,
+        "nivel_desafio": "0"
+    },
+    {
+        "nome": "DAO",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 187,
+        "nivel_desafio": "11"
+    },
+    {
+        "nome": "DJINNI",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 161,
+        "nivel_desafio": "11"
+    },
+    {
+        "nome": "EFREETI",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 200,
+        "nivel_desafio": "11"
+    },
+    {
+        "nome": "MARID",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 229,
+        "nivel_desafio": "11"
+    },
+    {
+        "nome": "GIGANTE DA COLINA",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 105,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "GIGANTE DA TEMPESTADE",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 230,
+        "nivel_desafio": "13"
+    },
+    {
+        "nome": "GIGANTE DAS NUVENS",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 200,
+        "nivel_desafio": "9"
+    },
+    {
+        "nome": "GIGANTE DE PEDRA",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 126,
+        "nivel_desafio": "7"
+    },
+    {
+        "nome": "GIGANTE DO FOGO",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 162,
+        "nivel_desafio": "9"
+    },
+    {
+        "nome": "GIGANTE DO GELO",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 138,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "CAVALEIRO GITHYANKI",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 91,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "GUERREIRO GITHYANKI",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 49,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "MONGE GITHZERAI",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 38,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "ZERTH GITHZERAI",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 84,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "GNOLL",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "GNOLL LÍDER DE MATILHA",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 49,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "GNOLL PRESA DE YEENOGHU",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 65,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "GNOMO DAS PROFUNDEZAS (SVIRFNEBLIN)",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 16,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "CHEFE GOBLIN",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 21,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "GOBLIN",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 7,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "GOLEM DE BARRO",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 133,
+        "nivel_desafio": "9"
+    },
+    {
+        "nome": "GOLEM DE CARNE",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 9,
+        "pontos_de_vida": 93,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "GOLEM DE FERRO",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 20,
+        "pontos_de_vida": 210,
+        "nivel_desafio": "16"
+    },
+    {
+        "nome": "GOLEM DE PEDRA",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 178,
+        "nivel_desafio": "10"
+    },
+    {
+        "nome": "GORGON",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 114,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "GRELL",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 55,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "GRICK",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 27,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "GRICK ALFA",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 75,
+        "nivel_desafio": "7"
+    },
+    {
+        "nome": "GRIFO",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 59,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "GRIMLOCK",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 11,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "GUARDIÃO DO ESCUDO ",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 142,
+        "nivel_desafio": "7"
+    },
+    {
+        "nome": "HARPIA ",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 38,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "HIDRA",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 172,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "HIPOGRIFO",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 19,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "HOBGOBLIN",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 11,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "HOBGOBLIN CAPITÃO",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 39,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "HOBGOBLIN SENHOR DA GUERRA",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 20,
+        "pontos_de_vida": 97,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "HOMEM-CHACAL",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 18,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "HOMÚNCULO",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 5,
+        "nivel_desafio": "0"
+    },
+    {
+        "nome": "HORROR DE ELMO",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 20,
+        "pontos_de_vida": 60,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "HORROR DE GANCHO",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 75,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "ESPETO INFECTADO",
+        "tipo": "PLANTA",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 11,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "GALHO INFECTADO",
+        "tipo": "PLANTA",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 4,
+        "nivel_desafio": "1/8"
+    },
+    {
+        "nome": "VINHA INFECTADO",
+        "tipo": "PLANTA",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 26,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "INUMANO",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 45,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "KENKU",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 13,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "KOBOLD",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 5,
+        "nivel_desafio": "1/8"
+    },
+    {
+        "nome": "KOBOLD ALADO",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 7,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "KRAKEN",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 472,
+        "nivel_desafio": "23"
+    },
+    {
+        "nome": "KUO-TOA ",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 18,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "AÇOITADOR KUO-TOA ",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 65,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "ARCEBISPO KUO-TOA ",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 97,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "LÂMIA",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 97,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "HOMEM-JAVALI",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 10,
+        "pontos_de_vida": 78,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "HOMEM-RATO",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 33,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "HOMEM-TIGRE",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 120,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "HOMEM-URSO",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 10,
+        "pontos_de_vida": 135,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "LOBISOMEM",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 58,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "LICH",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 135,
+        "nivel_desafio": "21"
+    },
+    {
+        "nome": "CUBO GELATINOSO",
+        "tipo": "LIMO",
+        "classe_de_armadura": 6,
+        "pontos_de_vida": 84,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "GOSMA OCRE",
+        "tipo": "LIMO",
+        "classe_de_armadura": 8,
+        "pontos_de_vida": 45,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "LIMO CINZENTO",
+        "tipo": "LIMO",
+        "classe_de_armadura": 8,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "PUDIM NEGRO",
+        "tipo": "LIMO",
+        "classe_de_armadura": 7,
+        "pontos_de_vida": 85,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "MAGMIN",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 9,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "MANTICORA",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 68,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "MANTO NEGRO",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "MANTOR",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 78,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "MEDUSA",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 127,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "MEIO-DRAGÃO VERMELHO VETERANO",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 65,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "MEPHIT DA POEIRA",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 17,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "MEPHIT DO GELO",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 21,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "MEPHIT DO MAGMA",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "MEPHIT DA LAMA",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 27,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "MEPHIT DA FUMAÇA",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "MEPHIT DO VAPOR",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 10,
+        "pontos_de_vida": 21,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "MICONIDE BROTO",
+        "tipo": "PLANTA",
+        "classe_de_armadura": 10,
+        "pontos_de_vida": 7,
+        "nivel_desafio": "0"
+    },
+    {
+        "nome": "SERVO ESPORO QUAGGOTH",
+        "tipo": "PLANTA",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 45,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "MICONIDE ADULTO",
+        "tipo": "PLANTA",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "MICONIDE SOBERANO",
+        "tipo": "PLANTA",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 60,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "MÍMICO",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 58,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "MINOTAURO",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 76,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "MONODRONE",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 5,
+        "nivel_desafio": "1/8"
+    },
+    {
+        "nome": "BIDRONE",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 11,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "TRIDRONE",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 16,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "QUADRONE",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "PENTADRONE",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 32,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "MONSTRO DA FERRUGEM",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 27,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "MÚMIA",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 58,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "SENHOR DAS MÚMIAS",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 97,
+        "nivel_desafio": "15"
+    },
+    {
+        "nome": "NAGA DOS OSSOS",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 58,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "NAGA ESPIRITUAL",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 75,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "NAGA GUARDIÃ",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 127,
+        "nivel_desafio": "10"
+    },
+    {
+        "nome": "NÓTICO",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 45,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "ARMADURA ANIMADA",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 33,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "ESPADA VOADORA",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 17,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "TAPETE SUFOCADOR",
+        "tipo": "CONSTRUCTO",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 33,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "OBSERVADOR",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 180,
+        "nivel_desafio": "13"
+    },
+    {
+        "nome": "TIRANO DA MORTE",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 187,
+        "nivel_desafio": "14"
+    },
+    {
+        "nome": "ESPECTADOR",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 39,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "OGRO",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 59,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "MEIO-OGRO",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 30,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "ONI",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 110,
+        "nivel_desafio": "7"
+    },
+    {
+        "nome": "ORC",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 15,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "COMANDANTE DE GUERRA ORC",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 93,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "ORC OLHO DE GRUUMSH",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 45,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "OROG",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 42,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "OTYUGH",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 114,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "PANTERA DESLOCADORA",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 85,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "PÉGASO",
+        "tipo": "CELESTIAL",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 59,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "PERFURADOR",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "PERYTON",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 33,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "PESADELO",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 68,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "PIXIE",
+        "tipo": "FADA",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 1,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "POVO DO MAR",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 11,
+        "nivel_desafio": "1/8"
+    },
+    {
+        "nome": "POVO LAGARTO",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "XAMÃ DO POVO LAGARTO",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 27,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "REI/RAINHA DO POVO LAGARTO",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 78,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "PSEUDODRAGÃO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 7,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "QUAGGOTH",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 45,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "QUIMERA",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 114,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "RAKSHASA",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 110,
+        "nivel_desafio": "13"
+    },
+    {
+        "nome": "REMORHAZ JOVEM",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 93,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "REMORHAZ",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 195,
+        "nivel_desafio": "11"
+    },
+    {
+        "nome": "RESSURGIDO",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 136,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "ROCA",
+        "tipo": "MONSTRUOSIDADE-VIVO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 248,
+        "nivel_desafio": "11"
+    },
+    {
+        "nome": "SAHUAGIN",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "BARÃO SAHUAGIN",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 76,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "SACERDOTISA SAHUAGIN",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 33,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "SERPENTE DE FOGO",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "SALAMANDRA",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 90,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "SÁTIRO",
+        "tipo": "FADA",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 31,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "SIRENÍDEO",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 45,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "SLAAD VERMELHO",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 92,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "SLAAD AZUL",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 123,
+        "nivel_desafio": "7"
+    },
+    {
+        "nome": "SLAAD VERDE",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 127,
+        "nivel_desafio": "8"
+    },
+    {
+        "nome": "SLAAD CINZA",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 127,
+        "nivel_desafio": "9"
+    },
+    {
+        "nome": "SLAAD DA MORTE",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 170,
+        "nivel_desafio": "10"
+    },
+    {
+        "nome": "LARVA SLAAD",
+        "tipo": "ABERRAÇÃO",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 10,
+        "nivel_desafio": "1/8"
+    },
+    {
+        "nome": "SOMBRA",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 16,
+        "nivel_desafio": "1/2"
+    },
+    {
+        "nome": "SPRITE",
+        "tipo": "FADA",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 2,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "STIRGE",
+        "tipo": "BESTA",
+        "classe_de_armadura": 14,
+        "pontos_de_vida": 2,
+        "nivel_desafio": "1/8"
+    },
+    {
+        "nome": "SÚCUBO/ÍNCUBO",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 66,
+        "nivel_desafio": "4"
+    },
+    {
+        "nome": "TARRASQUE",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 25,
+        "pontos_de_vida": 676,
+        "nivel_desafio": "30"
+    },
+    {
+        "nome": "TARTARUGA-DRAGÃO",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 20,
+        "pontos_de_vida": 341,
+        "nivel_desafio": "17"
+    },
+    {
+        "nome": "THRI-KREEN",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 33,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "TRÍBULO BRUTAL",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 93,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "TROGLODITA",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 13,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "TROLL",
+        "tipo": "GIGANTE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 84,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "UNICÓRNIO",
+        "tipo": "CELESTIAL",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 67,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "URSO-CORUJA",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 59,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "VAMPIRO",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 16,
+        "pontos_de_vida": 144,
+        "nivel_desafio": "13"
+    },
+    {
+        "nome": "CRIA VAMPÍRICA",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 82,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "VERME DA CARNIÇA",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 51,
+        "nivel_desafio": "2"
+    },
+    {
+        "nome": "VERME PÚRPURA",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 247,
+        "nivel_desafio": "15"
+    },
+    {
+        "nome": "WYVERN",
+        "tipo": "DRAGÃO",
+        "classe_de_armadura": 13,
+        "pontos_de_vida": 110,
+        "nivel_desafio": "6"
+    },
+    {
+        "nome": "XORN",
+        "tipo": "ELEMENTAL",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 73,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "YETI",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 51,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "YETI ABOMINÁVEL",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 137,
+        "nivel_desafio": "9"
+    },
+    {
+        "nome": "YUAN-TI ABOMINAÇÃO",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 127,
+        "nivel_desafio": "7"
+    },
+    {
+        "nome": "YUAN-TI MESTIÇO",
+        "tipo": "MONSTRUOSIDADE",
+        "classe_de_armadura": 12,
+        "pontos_de_vida": 66,
+        "nivel_desafio": "3"
+    },
+    {
+        "nome": "YUAN-TI PURO-SANGUE",
+        "tipo": "HUMANOIDE",
+        "classe_de_armadura": 11,
+        "pontos_de_vida": 40,
+        "nivel_desafio": "1"
+    },
+    {
+        "nome": "ARCANALOTH",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 17,
+        "pontos_de_vida": 104,
+        "nivel_desafio": "12"
+    },
+    {
+        "nome": "MEZZOLOTH",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 75,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "NYCALOTH",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 18,
+        "pontos_de_vida": 123,
+        "nivel_desafio": "9"
+    },
+    {
+        "nome": "ULTROLOTH",
+        "tipo": "CORRUPTOR",
+        "classe_de_armadura": 19,
+        "pontos_de_vida": 153,
+        "nivel_desafio": "13"
+    },
+    {
+        "nome": "ZUMBI",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 8,
+        "pontos_de_vida": 22,
+        "nivel_desafio": "1/4"
+    },
+    {
+        "nome": "OBSERVADOR ZUMBI",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 15,
+        "pontos_de_vida": 93,
+        "nivel_desafio": "5"
+    },
+    {
+        "nome": "OGRO ZUMBI",
+        "tipo": "MORTO-VIVO",
+        "classe_de_armadura": 8,
+        "pontos_de_vida": 85,
+        "nivel_desafio": "2"
     }
 ]
