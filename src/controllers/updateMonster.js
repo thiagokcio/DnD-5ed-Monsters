@@ -2,11 +2,14 @@ const fs = require("fs/promises");
 const dataBaseUrl = require("../utils/url");
 const {
     fieldsRequired,
-    monsterAdded,
-    existingMonster,
+    monsterNotFound,
+    monsterUpdated,
+    noQueryValue,
 } = require("../utils/messages");
+const getMessage = require("../utils/getMessage");
 
-const addMonster = async (req, res) => {
+const updateMonster = async (req, res) => {
+    const { name } = req.params;
     const { nome, tipo, classe_de_armadura, pontos_de_vida, nivel_desafio } =
         req.body;
 
@@ -23,15 +26,15 @@ const addMonster = async (req, res) => {
     try {
         const monsters = JSON.parse(await fs.readFile(dataBaseUrl));
 
-        const monsterFound = monsters.find(
-            (monster) => monster.nome === nome.toUpperCase()
+        const indexMonsterFound = monsters.findIndex(
+            (monster) => monster.nome === name.toUpperCase()
         );
 
-        if (monsterFound) {
-            return res.status(400).json(existingMonster);
+        if (indexMonsterFound === -1) {
+            return res.status(400).json(monsterNotFound);
         }
 
-        const newMonster = {
+        monsters[indexMonsterFound] = {
             nome: nome.toUpperCase(),
             tipo: tipo.toUpperCase(),
             classe_de_armadura,
@@ -39,14 +42,12 @@ const addMonster = async (req, res) => {
             nivel_desafio,
         };
 
-        monsters.push(newMonster);
-
         await fs.writeFile(dataBaseUrl, JSON.stringify(monsters));
 
-        res.status(201).json(monsterAdded);
+        res.status(201).json(monsterUpdated);
     } catch (error) {
         return res.status(500).json(error);
     }
 };
 
-module.exports = addMonster;
+module.exports = updateMonster;

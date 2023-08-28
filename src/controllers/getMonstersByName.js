@@ -1,26 +1,23 @@
 const fs = require("fs/promises");
+const dataBaseUrl = require("../utils/url");
+const getMessage = require("../utils/getMessage");
+const { noQueryValue, monsterNotFound } = require("../utils/messages");
 
 const getMonstersByName = async (req, res) => {
     const { search } = req.query;
 
     if (!search) {
-        return res.status(400).json({
-            mensagem: "Informe um nome para busca.",
-        });
+        return res.status(400).json(getMessage(noQueryValue, "nome"));
     }
     try {
-        const monsters = JSON.parse(
-            await fs.readFile("./src/database/monsters.json")
-        );
+        const monsters = JSON.parse(await fs.readFile(dataBaseUrl));
 
         const monstersByName = monsters.filter((monster) =>
             monster.nome.includes(search.toUpperCase())
         );
 
         if (monstersByName.length === 0) {
-            return res.status(404).json({
-                mensagem: "Nenhum monstro encontrado.",
-            });
+            return res.status(404).json(monsterNotFound);
         }
 
         return res.status(200).json(monstersByName);
