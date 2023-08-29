@@ -5,19 +5,19 @@
 
 ## Características
   1. Adicionar novos mosntros a lista passando as informaçoes obrigatoriamente:
-      - Nome
-      - Tipo
-      - Classe de Armadura
-      - Pontos de Vida
-      - Nivel de Desafio
+      - Nome (string)
+      - Tipo (string)
+      - Classe de Armadura (number)
+      - Pontos de Vida (number)
+      - Nivel de Desafio (string)
   2. Listar os monstros, filtrando pelo nome, tipo ou nivel de desafio.
-  3. Alterar um monstros ja contido na lista.
+  3. Alterar um monstro ja contido na lista.
   4. Remover um monstro da lista
 
 ## Requerimentos
   - Tenha o npm instalado em sua máquina.
   - Tenha o node instalado em sua máquina.
-  - Utilize alguma ferramento para realizar as ações do tipo POST, PUT ou DELETE, como o Insomnia ou o PostMan.
+  - Utilize alguma ferramenta para realizar as ações do tipo POST, PUT ou DELETE, como o Insomnia ou o PostMan.
 
 ## Instalação
   1. Clone o repositório.
