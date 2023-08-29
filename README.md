@@ -37,3 +37,14 @@
 ##Screenshots
 
  1. Exemplo de uma requisição para adicionar um monstro:
+    
+    ![post example](./public/images/post-example.jpg)
+
+2. Exemplo da resposta de uma busca filtrando pelo nome (orc):
+
+   ![post example](./public/images/get-by-name-example.jpg)
+
+3. Exemplo da resposta de uma busca filtrando pelo tipo (morto-vivo):
+
+   ![post example](./public/images/get-by-type-example.jpg)
+   
