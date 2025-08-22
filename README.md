@@ -4,7 +4,7 @@
   Aplicação Backend para listar todos os monstros do jogo Dungeons and Dragons, de acordo com o livro oficial Manual dos Monstros.
 
 ## Características
-  1. Adicionar novos mosntros a lista passando as informaçoes obrigatoriamente:
+  1. Adicionar novos monstros a lista passando as informaçoes obrigatoriamente:
       - Nome (string)
       - Tipo (string)
       - Classe de Armadura (number)
